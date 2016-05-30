@@ -1,7 +1,7 @@
 package patterns.state_pattern;
 
 /**
- * Created on 245//16.
+ * Created on 23.5.16.
  */
 public class State {
 
@@ -131,3 +131,5 @@ public class State {
             station.play();
         }
     }
+
+
